@@ -1,0 +1,19 @@
+.idea/
+__pycache__/
+.venv/
+venv/
+.DS_Store
+# IDE/ambiente
+.idea/
+__pycache__/
+venv/
+.venv/
+.DS_Store
+
+# Dispositivos reservados do Windows (se aparecerem por acidente)
+NUL
+CON
+PRN
+AUX
+COM1
+LPT1
